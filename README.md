@@ -2,7 +2,7 @@
 
 Created as part of The Odin Project curriculum.
 
-View on Repl.it
+View on Replit   https://replit.com/@AKanoniOS/Hangman?v=1
 
 Play hangman! Save your game with the spacebar and resume it later. 
 
