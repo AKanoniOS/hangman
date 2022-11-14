@@ -1,0 +1,46 @@
+---
+:moves_remaining: 4
+:display_array:
+- _
+- _
+- _
+- _
+- _
+- _
+:display_alphabet:
+- "▉"
+- "▉"
+- "▉"
+- "▉"
+- "▉"
+- f
+- g
+- h
+- i
+- j
+- k
+- l
+- m
+- "n"
+- o
+- p
+- q
+- r
+- s
+- t
+- u
+- v
+- w
+- x
+- "y"
+- z
+:secret_word: 'zoloft
+
+  '
+:secret_word_array:
+- z
+- o
+- l
+- o
+- f
+- t
